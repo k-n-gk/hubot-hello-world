@@ -1,3 +1,3 @@
 module.exports = (robot) ->
-  robot.respond /В±Вс/i, (msg) ->
+  robot.respond /kon/i, (msg) ->
     msg.send 'В±ВсВ…ВњВЌБB'
